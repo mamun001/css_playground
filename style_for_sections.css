@@ -1,0 +1,11 @@
+/* applies to all body unless something else overrides it */
+body {
+    background-color: darkcyan;
+    font-size: 20px;
+    /* font-style:italic; */
+  }
+
+  h1 {
+      font-size: 40px;
+      font-style: oblique;
+  }
